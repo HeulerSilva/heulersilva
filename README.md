@@ -86,7 +86,7 @@ Built a complete Analytics Engineering pipeline transforming raw, inconsistent d
 
 ## 🎓 Education & Certifications
 
-- 🎓 Pós-graduação em **AI Engineering** — Faculdade Impacta *(in progress — 2027)*
+- 🎓 Pós-graduação em **AI Engineering** — Faculdade Impacta *(in progress — 03/2027)*
 - 🎓 Pós-graduação em Desenvolvimento Web & Mobile — IFTM
 - 🎓 Bacharelado em Ciência da Computação — ULBRA
 - 📜 Data Engineering with Databricks — Udemy
