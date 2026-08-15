@@ -1,6 +1,7 @@
 # Hi, I'm Heuler Silva 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heulersilva-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/heulersilva)
+[![GitHub](https://img.shields.io/badge/GitHub-HeulerSilva-181717?style=flat&logo=github&logoColor=white)](https://github.com/HeulerSilva)
 [![Email](https://img.shields.io/badge/Email-heulersilva%40yahoo.com.br-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heulersilva@yahoo.com.br)
 [![Location](https://img.shields.io/badge/Brazil-Remote-009739?style=flat&logo=googlemaps&logoColor=white)](#)
 
@@ -21,7 +22,7 @@ class HeulerSilva(Pipeline):
             "languages"    : ["Python", "SQL (Oracle, SQL Server, PostgreSQL)"],
             "engineering"  : ["dbt", "Apache Spark (PySpark)", "Apache Airflow"],
             "lakehouse"    : ["Databricks", "Delta Lake", "Unity Catalog"],
-            "cloud"        : ["AWS (S3, EC2, Athena, Glue, Redshift)", "Azure"],
+            "cloud"        : ["AWS (S3, EC2, Redshift Serverless)"],
             "databases"    : ["DuckDB", "SQL Server", "Oracle", "PostgreSQL"],
             "devops"       : ["Docker", "Git", "GitHub", "WSL2"],
         }
@@ -50,7 +51,6 @@ class HeulerSilva(Pipeline):
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,11 +64,12 @@ class HeulerSilva(Pipeline):
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | [Cloud Data Warehouse — AWS Redshift Serverless + Looker Studio](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/data-engineering-aws-redshift-dw) | Redshift · S3 · SQL · Looker Studio | ✅ Complete |
-| 02 | NoSQL on AWS | DynamoDB · MongoDB · DocumentDB | 🔄 In progress |
-| 03 | Spark & PySpark Processing | PySpark · EMR · Delta Lake | 🔜 Planned |
+| 02 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
+| 03 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
 | 04 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
 
 📁 [View full portfolio →](https://github.com/HeulerSilva/data-engineering-portfolio)
+📁 [View Databricks lab projects →](https://github.com/HeulerSilva/DataLake)
 
 ---
 
@@ -105,8 +106,8 @@ Built a complete Analytics Engineering pipeline transforming raw, inconsistent d
 - 🎓 Pós-graduação em **AI Engineering** — Faculdade Impacta *(in progress — 03/2027)*
 - 🎓 Pós-graduação em Desenvolvimento Web & Mobile — IFTM
 - 🎓 Bacharelado em Ciência da Computação — ULBRA
-- 📜 Data Engineering with Databricks — Udemy / Edmilson Santos
-- 📜 Data Engineering: Master Big Data (AWS) — Udemy / Fernando Amaral
+- 📜 Data Engineering with Databricks — Udemy / Edmilson Santos *(in progress)*
+- 📜 Data Engineering: Master Big Data (AWS) — Udemy / Fernando Amaral *(in progress)*
 - 📜 AWS Cloud Practitioner Essentials *(in progress)*
 - 📜 Oracle Database Administration I & II / PL/SQL — Oracle Certified
 
