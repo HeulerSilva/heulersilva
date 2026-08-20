@@ -51,6 +51,7 @@ class HeulerSilva(Pipeline):
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,9 +66,10 @@ class HeulerSilva(Pipeline):
 |---|---------|-------|--------|
 | 01 | [Cloud Data Warehouse — AWS Redshift Serverless + Looker Studio](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-redshift-dw) | Redshift · S3 · SQL · Looker Studio | ✅ Complete |
 | 02 | [S3 → RDS PostgreSQL Ingestion Pipeline](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-s3-rds-ingestion) | boto3 · psycopg2 · S3 · RDS PostgreSQL | ✅ Complete |
-| 03 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
-| 04 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
-| 05 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
+| 03 | [Kinesis Streaming — Data Streams & Firehose](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-kinesis-streaming) | Kinesis Data Streams · Amazon Data Firehose · boto3 · S3 | ✅ Complete |
+| 04 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
+| 05 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
+| 06 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
 
 📁 [View full portfolio →](https://github.com/HeulerSilva/data-engineering-portfolio)
 📁 [View Databricks lab projects →](https://github.com/HeulerSilva/DataLake)
