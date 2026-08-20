@@ -22,7 +22,7 @@ class HeulerSilva(Pipeline):
             "languages"    : ["Python", "SQL (Oracle, SQL Server, PostgreSQL)"],
             "engineering"  : ["dbt", "Apache Spark (PySpark)", "Apache Airflow"],
             "lakehouse"    : ["Databricks", "Delta Lake", "Unity Catalog"],
-            "cloud"        : ["AWS (S3, EC2, Redshift Serverless)"],
+            "cloud"        : ["AWS (S3, EC2, RDS, Redshift Serverless, Kinesis, Glue, Athena, IAM)"],
             "databases"    : ["DuckDB", "SQL Server", "Oracle", "PostgreSQL"],
             "devops"       : ["Docker", "Git", "GitHub", "WSL2"],
         }
@@ -52,6 +52,7 @@ class HeulerSilva(Pipeline):
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,9 +68,10 @@ class HeulerSilva(Pipeline):
 | 01 | [Cloud Data Warehouse — AWS Redshift Serverless + Looker Studio](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-redshift-dw) | Redshift · S3 · SQL · Looker Studio | ✅ Complete |
 | 02 | [S3 → RDS PostgreSQL Ingestion Pipeline](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-s3-rds-ingestion) | boto3 · psycopg2 · S3 · RDS PostgreSQL | ✅ Complete |
 | 03 | [Kinesis Streaming — Data Streams & Firehose](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-kinesis-streaming) | Kinesis Data Streams · Amazon Data Firehose · boto3 · S3 | ✅ Complete |
-| 04 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
-| 05 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
-| 06 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
+| 04 | [Glue & Athena — Serverless Data Lake](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-glue-athena-datalake) | AWS Glue · Athena · PySpark · Parquet | ✅ Complete |
+| 05 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
+| 06 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
+| 07 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
 
 📁 [View full portfolio →](https://github.com/HeulerSilva/data-engineering-portfolio)
 📁 [View Databricks lab projects →](https://github.com/HeulerSilva/DataLake)
