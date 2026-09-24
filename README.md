@@ -22,9 +22,9 @@ class HeulerSilva(Pipeline):
             "languages"    : ["Python", "SQL (Oracle, SQL Server, PostgreSQL)"],
             "engineering"  : ["dbt", "Apache Spark (PySpark)", "Apache Airflow"],
             "lakehouse"    : ["Databricks", "Delta Lake", "Unity Catalog"],
-            "cloud"        : ["AWS (S3, EC2, RDS, Redshift Serverless, Kinesis, Glue, Athena, IAM)"],
+            "cloud"        : ["AWS (S3, EC2, RDS, Redshift Serverless, Kinesis, Glue, Athena, IAM)", "Azure", "GCP"],
             "databases"    : ["DuckDB", "SQL Server", "Oracle", "PostgreSQL"],
-            "devops"       : ["Docker", "Git", "GitHub", "WSL2"],
+            "devops"       : ["Docker", "Terraform", "Kubernetes", "Git", "GitHub", "WSL2"],
         }
 
     def get_differentiator(self):
@@ -55,6 +55,10 @@ class HeulerSilva(Pipeline):
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -72,9 +76,13 @@ class HeulerSilva(Pipeline):
 | 05 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
 | 06 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
 | 07 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
+| 08 | [Terraform + Azure — Infrastructure as Code Lab](https://github.com/HeulerSilva/terraform-azure-lab) | Terraform · Azure Resource Manager · Azure CLI · Ubuntu Server | ✅ Complete |
+| 09 | [Docker & Kubernetes Lab — Containers to GKE](https://github.com/HeulerSilva/docker-kubernetes-lab) | Docker · Docker Compose · Kubernetes (kind) · Terraform · GKE | ✅ Complete |
+| 10 | [n8n Workflow Automation — EG Alimentos](https://github.com/HeulerSilva/n8n) | n8n · Workflow Automation | 🚧 In Progress |
 
 📁 [View full portfolio →](https://github.com/HeulerSilva/data-engineering-portfolio)
 📁 [View Databricks lab projects →](https://github.com/HeulerSilva/DataLake)
+📁 [View Cloud & IaC lab projects →](https://github.com/HeulerSilva/docker-kubernetes-lab)
 
 ---
 
