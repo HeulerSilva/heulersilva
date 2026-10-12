@@ -69,16 +69,17 @@ class HeulerSilva(Pipeline):
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 01 | [Cloud Data Warehouse — AWS Redshift Serverless + Looker Studio](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-redshift-dw) | Redshift · S3 · SQL · Looker Studio | ✅ Complete |
-| 02 | [S3 → RDS PostgreSQL Ingestion Pipeline](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-s3-rds-ingestion) | boto3 · psycopg2 · S3 · RDS PostgreSQL | ✅ Complete |
-| 03 | [Kinesis Streaming — Data Streams & Firehose](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-kinesis-streaming) | Kinesis Data Streams · Amazon Data Firehose · boto3 · S3 | ✅ Complete |
-| 04 | [Glue & Athena — Serverless Data Lake](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-glue-athena-datalake) | AWS Glue · Athena · PySpark · Parquet | ✅ Complete |
-| 05 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
-| 06 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
-| 07 | Airflow Pipeline Orchestration | Airflow · Docker · Python | 🔜 Planned |
-| 08 | [Terraform + Azure — Infrastructure as Code Lab](https://github.com/HeulerSilva/terraform-azure-lab) | Terraform · Azure Resource Manager · Azure CLI · Ubuntu Server | ✅ Complete |
-| 09 | [Docker & Kubernetes Lab — Containers to GKE](https://github.com/HeulerSilva/docker-kubernetes-lab) | Docker · Docker Compose · Kubernetes (kind) · Terraform · GKE | ✅ Complete |
-| 10 | [n8n Workflow Automation — EG Alimentos](https://github.com/HeulerSilva/n8n) | n8n · Workflow Automation | 🚧 In Progress |
+| 01 | [Lakeview Sales Dashboard — Databricks Lakehouse](https://github.com/HeulerSilva/Lakeview_Sales_Dashboard) | PySpark · Delta Lake · Medallion · Databricks Lakeview | ✅ Complete |
+| 02 | [Cloud Data Warehouse — AWS Redshift Serverless + Looker Studio](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-redshift-dw) | Redshift · S3 · SQL · Looker Studio | ✅ Complete |
+| 03 | [S3 → RDS PostgreSQL Ingestion Pipeline](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-s3-rds-ingestion) | boto3 · psycopg2 · S3 · RDS PostgreSQL | ✅ Complete |
+| 04 | [Kinesis Streaming — Data Streams & Firehose](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-kinesis-streaming) | Kinesis Data Streams · Amazon Data Firehose · boto3 · S3 | ✅ Complete |
+| 05 | [Glue & Athena — Serverless Data Lake](https://github.com/HeulerSilva/data-engineering-portfolio/tree/main/aws-glue-athena-datalake) | AWS Glue · Athena · PySpark · Parquet | ✅ Complete |
+| 06 | [Spark & Delta Lake Fundamentals](https://github.com/HeulerSilva/DataLake/tree/main/DataFrame_Base1) | PySpark · Delta Lake · Unity Catalog | ✅ Complete |
+| 07 | [ETL Pipeline — IBGE Public API](https://github.com/HeulerSilva/DataLake/tree/main/ETL_Base1) | PySpark · Delta Lake · REST API | ✅ Complete |
+| 08 | [Airflow Pipeline Orchestration](https://github.com/HeulerSilva/airflow-docker-lab) | Airflow · Docker Compose · Python | ✅ Complete |
+| 09 | [Terraform + Azure — Infrastructure as Code Lab](https://github.com/HeulerSilva/terraform-azure-lab) | Terraform · Azure Resource Manager · Azure CLI · Ubuntu Server | ✅ Complete |
+| 10 | [Docker & Kubernetes Lab — Containers to GKE](https://github.com/HeulerSilva/docker-kubernetes-lab) | Docker · Docker Compose · Kubernetes (kind) · Terraform · GKE | ✅ Complete |
+| 11 | [n8n Workflow Automation — EG Alimentos](https://github.com/HeulerSilva/n8n) | n8n · Workflow Automation | 🚧 In Progress |
 
 📁 [View full portfolio →](https://github.com/HeulerSilva/data-engineering-portfolio)
 📁 [View Databricks lab projects →](https://github.com/HeulerSilva/DataLake)
@@ -120,7 +121,7 @@ Built a complete Analytics Engineering pipeline transforming raw, inconsistent d
 - 🎓 Pós-graduação em Desenvolvimento Web & Mobile — IFTM
 - 🎓 Bacharelado em Ciência da Computação — ULBRA
 - 📜 Data Engineering with Databricks — Udemy / Edmilson Santos *(in progress)*
-- 📜 Data Engineering: Master Big Data (AWS) — Udemy / Fernando Amaral *(in progress)*
+- 📜 Data Engineering: Master Big Data (AWS) — Udemy / Fernando Amaral
 - 📜 AWS Cloud Practitioner Essentials *(in progress)*
 - 📜 Oracle Database Administration I & II / PL/SQL — Oracle Certified
 
